@@ -1,10 +1,14 @@
-body {
+html,body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
-  max-width: 100%;
-  overflow-x: hidden !important;
   
+  overflow-x: hidden !important;
 }
+
+body {
+  position: relative;
+}
+
 
 
 
